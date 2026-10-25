@@ -1,0 +1,15 @@
+{
+  "name": "10T USDT List",
+  "key": "10t-usdt-list",
+  "timestamp": "1717000000000",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xSEU_ENDERECO",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/tether.png"
+    }
+  ]
+}
